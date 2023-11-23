@@ -1,0 +1,9 @@
+lab.*
+Lab.*
+__pycache__
+*.pyc
+OHLC_Data
+Fun.*
+fun.*
+*.ipynb
+*.cpy
