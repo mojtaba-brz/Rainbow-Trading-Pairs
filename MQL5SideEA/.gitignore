@@ -1,0 +1,9 @@
+*.a
+*.o
+*.def
+*.dll
+*.win
+*.dev
+*.layout
+*.depend
+*.ex5
