@@ -8,6 +8,7 @@
 **Rainbow-Trading-Pairs** is a Python code that uses Q-learning rainbow to trade pairs. It connects to MetaTrader5 and an EA on MT5 Execute Actions and sends Market States for this bot. The repository helps traders automate their trading process and make better decisions. The bot learns from its past experiences and improves its performance over time. The bot can execute trades and receive market states in real-time, making it a powerful tool for traders who want to stay ahead of the curve. **Rainbow-Trading-Pairs** is a valuable resource for anyone who wants to automate their trading process and improve their trading performance.
 
 **A diagram illustrating its functionality is presented below.**
+
 ![Rainbow-Trading-Pairs.excalidraw.png](./Docs/Excalidraw/Rainbow-Trading-Pairs.excalidraw.png)
 
 ## How to use
