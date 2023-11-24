@@ -5,7 +5,7 @@ from time import sleep
 from TrBotPYSideClient import TrBotPYSideClient
 from typedefs import *
 
-tbc = TrBotPYSideClient(10)
+tbc = TrBotPYSideClient(host_addr = "127.0.0.1", host_port = 65333, hello_period = 10)
 
 # wait for params
 while True:

@@ -55,7 +55,7 @@ def clc():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def print_header(): # this function should give to a parallel thread with main bot thread
-    n = 1;
+    n = 1
     while(True):
         start_time = time.time()
         print(colored("\nsymbol\t\tMode\t\tentry\t\tSL\t\tTP\t\treq_status\t\tMT5 Last Err\n","red"))
