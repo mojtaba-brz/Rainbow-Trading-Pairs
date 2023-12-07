@@ -44,9 +44,7 @@
 7. Run the server  -->  `python RUN_TRServer.py`
 8. Run RL agent    -->  `python Run_BSF_Algorithm.py`
 
-**Note 1 : you can run the EA in strategy tester too.** 
-
-**Note 2 : see `ConnectionWithMQL5/MaCrossExample.py` for an example.**
+**Note 1 : you can run the EA in strategy tester too. see `ConnectionWithMQL5/MaCrossExample.py` for an example.**
 
 ### Simulation Mode
 
