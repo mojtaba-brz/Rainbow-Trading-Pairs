@@ -38,7 +38,7 @@ Account, Market and Orders data ^0E3J33uq
 
 Orders Execution ^ZxlO6oTW
 
-MVP Diagram of Rainbow-Trading-Pairs ^CFkTdrtj
+MDP Diagram of Rainbow-Trading-Pairs ^CFkTdrtj
 
 Replay Buffer
 (with prioritization) ^7Pma94H6
